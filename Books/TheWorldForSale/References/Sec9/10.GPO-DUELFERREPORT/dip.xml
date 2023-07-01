@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><mets xmlns="http://www.loc.gov/METS/" xmlns:utils="xalan://gov.gpo.fdsys.utils" xmlns:datetime="http://exslt.org/dates-and-times" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" ID="P0b002ee1807188e1" LABEL="Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report)" OBJID="GPO-DUELFERREPORT">
+<metsHdr CREATEDATE="2023-06-21T02:23:31Z" LASTMODDATE="2023-06-21T02:23:31Z">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>United States Government Publishing Office</name>
+</agent>
+</metsHdr>
+<dmdSec ID="descriptive-metadata-mods-id-new_child1283868051509">
+<mdRef ID="id-new_child1283868051509" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-new_child1283868051509']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-new_child1283868064452">
+<mdRef ID="id-new_child1283868064452" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-new_child1283868064452']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-new_child1283868075164">
+<mdRef ID="id-new_child1283868075164" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-new_child1283868075164']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-new_child1283868088228">
+<mdRef ID="id-new_child1283868088228" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-new_child1283868088228']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<amdSec>
+<digiprovMD ID="provenance-metadata-premis">
+<mdRef MIMETYPE="text/xml" LOCTYPE="URL" xlink:href="file://premis.xml" MDTYPE="PREMIS"/>
+</digiprovMD>
+</amdSec>
+<fileSec><fileGrp USE="application/pdf"><file ID="FID1" MIMETYPE="application/pdf" SIZE="6206717" DMDID="id-new_child1283868075164">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/GPO-DUELFERREPORT-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-3.pdf"/>
+</file>
+<file ID="FID2" MIMETYPE="application/pdf" SIZE="8174495" DMDID="id-new_child1283868064452">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/GPO-DUELFERREPORT-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-2.pdf"/>
+</file>
+<file ID="FID3" MIMETYPE="application/pdf" SIZE="15922323" DMDID="id-new_child1283868051509">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/GPO-DUELFERREPORT-1.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-1.pdf"/>
+</file>
+<file ID="FID4" MIMETYPE="application/pdf" SIZE="605267" DMDID="id-new_child1283868088228">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/GPO-DUELFERREPORT-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-4.pdf"/>
+</file></fileGrp><fileGrp USE="image/jpeg"><file ID="FID5" MIMETYPE="image/jpeg" SIZE="3104">
+<FLocat LOCTYPE="URL" xlink:href="file://thumbnails/GPO-DUELFERREPORT.jpg"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT//GPO-DUELFERREPORT"/>
+</file></fileGrp></fileSec>
+<structMap>
+<div>
+<div DMDID="id-new_child1283868075164" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID1"/>
+</div>
+<div DMDID="id-new_child1283868064452" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID2"/>
+</div>
+<div DMDID="id-new_child1283868051509" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID3"/>
+</div>
+<div DMDID="id-new_child1283868088228" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID4"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID5"/>
+</div>
+</div>
+</structMap>
+</mets>

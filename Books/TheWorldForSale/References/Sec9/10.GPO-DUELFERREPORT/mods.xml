@@ -1,0 +1,204 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1807188e1">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Central Intelligence Agency</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="personal">
+ <namePart>Duelfer, Charles</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>GPO</collectionCode>
+ <category>Executive Agency Publications</category>
+ <branch>executive</branch>
+ <dateIngested>2010-09-13</dateIngested>
+</extension>
+<originInfo>
+ <publisher>Central Intelligence Agency</publisher>
+ <dateIssued encoding="w3cdtf">2005-04-25</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">Deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+</physicalDescription>
+<classification authority="sudocs">PREX 3.2:IR 1</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT</identifier>
+<identifier type="local">P0b002ee1807188e1</identifier>
+<identifier type="ILS system id">000577337</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2010-09-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2010-09-13</recordChangeDate>
+ <recordIdentifier source="DGPO">GPO-DUELFERREPORT</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>GPO</docClass>
+ <accessId>GPO-DUELFERREPORT</accessId>
+ <ACCode>GPO</ACCode>
+ <fedPubName>Featured Executive Branch Publications</fedPubName>
+ <description>The Special Advisor to the Director of Central Intelligence on Iraq&apos;s Weapons of Mass Destruction (WMD) has released a revised edition of his September 2004 Comprehensive Report on Iraq&apos;s WMD, as well as six previously unpublished addendums. The report, also known as the Duelfer Report, reveals a comprehensive picture of the Saddam Hussein regime&apos;s weapons of mass destruction programs as unraveled by the Iraq Survey Group (ISG). The report draws on the ISG&apos;s unprecedented access to Iraqi participants, including Saddam himself, Iraqi documents, and reported weapons sites. It compares previous assessments of Iraq&apos;s weapons of mass destruction, provides insight into how the Saddam regime viewed such weapons programs and their future, and untangles the Saddam regime&apos;s interactions with the UN and Oil for Food Program. The previously unavailable addendums record the results from the investigation of issues that remained open after the initial publication of the Comprehensive Report issued on September 30, 2004. These issues include, the potential quantity of residual chemical weapons in Iraq; the status of people, facilities, and equipment formerly employed in the weapons of mass destruction programs; a discussion of the process and utility of debriefing Iraqi detainees to gain understanding of these programs; a detailed description of the history of Iraq&apos;s Military Industrial Commission, the governmental organ in charge of weapons development; comments on the investigation of the possible movement of Iraqi Weapons of mass destruction to Syria prior to the start of Operation Iraqi Freedom.</description>
+ <image>thumbnails/GPO-DUELFERREPORT.jpg</image>
+ <agency abbrev="CIA">Central Intelligence Agency</agency>
+ <genericNav1Value>Central Intelligence Agency</genericNav1Value>
+ <ggrank1>Duelfer Report</ggrank1>
+</extension>
+<titleInfo>
+ <title>Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report)</title>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT</url>
+ <url access="raw object" displayLabel="JPEG rendition">https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/thumbnails/GPO-DUELFERREPORT.jpg</url>
+</location>
+<abstract>The Special Advisor to the Director of Central Intelligence on Iraq&apos;s Weapons of Mass Destruction (WMD) has released a revised edition of his September 2004 Comprehensive Report on Iraq&apos;s WMD, as well as six previously unpublished addendums. The report, also known as the Duelfer Report, reveals a comprehensive picture of the Saddam Hussein regime&apos;s weapons of mass destruction programs as unraveled by the Iraq Survey Group (ISG). The report draws on the ISG&apos;s unprecedented access to Iraqi participants, including Saddam himself, Iraqi documents, and reported weapons sites. It compares previous assessments of Iraq&apos;s weapons of mass destruction, provides insight into how the Saddam regime viewed such weapons programs and their future, and untangles the Saddam regime&apos;s interactions with the UN and Oil for Food Program. The previously unavailable addendums record the results from the investigation of issues that remained open after the initial publication of the Comprehensive Report issued on September 30, 2004. These issues include, the potential quantity of residual chemical weapons in Iraq; the status of people, facilities, and equipment formerly employed in the weapons of mass destruction programs; a discussion of the process and utility of debriefing Iraqi detainees to gain understanding of these programs; a detailed description of the history of Iraq&apos;s Military Industrial Commission, the governmental organ in charge of weapons development; comments on the investigation of the possible movement of Iraqi Weapons of mass destruction to Syria prior to the start of Operation Iraqi Freedom.</abstract>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Central Intelligence Agency</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+  <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+ <description>United States Government Agency</description>
+</name>
+<extension>
+ <searchTitle>Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report);
+            </searchTitle>
+</extension>
+<relatedItem type="constituent" ID="id-new_child1283868051509" xlink:href="https://www.govinfo.gov/metadata/granule/GPO-DUELFERREPORT/GPO-DUELFERREPORT-1/mods.xml">
+ <titleInfo>
+  <title>Volume 1</title>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-1.pdf">
+  <identifier type="FDsys Unique ID">D09002ee180718f53</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-1</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-1</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-1.pdf</url>
+</location>
+ <subject>
+  <hierarchicalGeographic>
+   <country>United States of America</country>
+   <state></state>
+</hierarchicalGeographic>
+</subject>
+ <extension>
+  <searchTitle>Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report);
+              Volume 1;
+              </searchTitle>
+  <granuleClass>CONTENT</granuleClass>
+  <accessId>GPO-DUELFERREPORT-1</accessId>
+  <sequenceNumber>1</sequenceNumber>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-new_child1283868064452" xlink:href="https://www.govinfo.gov/metadata/granule/GPO-DUELFERREPORT/GPO-DUELFERREPORT-2/mods.xml">
+ <titleInfo>
+  <title>Volume 2</title>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee180718f4c</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-2</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-2.pdf</url>
+</location>
+ <subject>
+  <hierarchicalGeographic>
+   <country>United States of America</country>
+   <state></state>
+</hierarchicalGeographic>
+</subject>
+ <extension>
+  <searchTitle>Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report);
+              Volume 2;
+              </searchTitle>
+  <granuleClass>CONTENT</granuleClass>
+  <accessId>GPO-DUELFERREPORT-2</accessId>
+  <sequenceNumber>2</sequenceNumber>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-new_child1283868075164" xlink:href="https://www.govinfo.gov/metadata/granule/GPO-DUELFERREPORT/GPO-DUELFERREPORT-3/mods.xml">
+ <titleInfo>
+  <title>Volume 3</title>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee180718f4e</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-3</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-3.pdf</url>
+</location>
+ <subject>
+  <hierarchicalGeographic>
+   <country>United States of America</country>
+   <state></state>
+</hierarchicalGeographic>
+</subject>
+ <extension>
+  <searchTitle>Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report);
+              Volume 3;
+              </searchTitle>
+  <granuleClass>CONTENT</granuleClass>
+  <accessId>GPO-DUELFERREPORT-3</accessId>
+  <sequenceNumber>3</sequenceNumber>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-new_child1283868088228" xlink:href="https://www.govinfo.gov/metadata/granule/GPO-DUELFERREPORT/GPO-DUELFERREPORT-4/mods.xml">
+ <titleInfo>
+  <title>Addendums</title>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee180718f4d</identifier>
+</relatedItem>
+ <identifier type="uri">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-4</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/GPO-DUELFERREPORT/GPO-DUELFERREPORT-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/GPO-DUELFERREPORT/pdf/GPO-DUELFERREPORT-4.pdf</url>
+</location>
+ <subject>
+  <hierarchicalGeographic>
+   <country>United States of America</country>
+   <state></state>
+</hierarchicalGeographic>
+</subject>
+ <extension>
+  <searchTitle>Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, with Addendums (Duelfer Report);
+              Addendums;
+              </searchTitle>
+  <granuleClass>CONTENT</granuleClass>
+  <accessId>GPO-DUELFERREPORT-4</accessId>
+  <sequenceNumber>4</sequenceNumber>
+</extension>
+</relatedItem>
+</mods>
